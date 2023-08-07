@@ -1,0 +1,1 @@
+class BasicClass(val parameter: String)
